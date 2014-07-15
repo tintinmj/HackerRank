@@ -4,14 +4,12 @@
  * and open the template in the editor.
  */
 
-package com.tintinmj;
+package mu;
 
 /**
  *
  * @author tintinmj
  */
-public class Testing {
-    public void test() {
-        System.out.println("Hello");
-    }
+public class NewClass {
+    
 }
